@@ -5,7 +5,7 @@ This project is a simple web application that predicts the ring count (and hence
 The application is built using Flask for the backend and Streamlit for the frontend.
 
 
-# Prerequisites
+## Prerequisites
 Ensure you have the following installed:
 
 Python 3.x
@@ -23,7 +23,7 @@ pip install Flask streamlit scikit-learn
 ### The pre-trained model file (.pkl file) has to be imported into the root directory before executing teh application
 
 
-# Running the Application
+## Running the Application
 
 Step 1: Start the Flask Backend
 
