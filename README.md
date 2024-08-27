@@ -6,13 +6,12 @@ The application is built using Flask for the backend and Streamlit for the front
 
 
 ### Prerequisites
-Ensure you have the following installed:
 
-Python 3.x
-pip (Python package manager)
+Python 3.12.4
+pip 24.0
 
 
-Install Dependencies:
+Install Dependencies (in virtual env):
 
 pip install -r requirements.txt
 If you don't have a requirements.txt file, you can manually install the necessary packages:
