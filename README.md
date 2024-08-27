@@ -12,9 +12,7 @@ Python 3.12.4
 pip 24.0
 
 
-
-
-Install Dependencies (in virtual env):
+**Install Dependencies (in virtual env):**
 
 pip install -r requirements.txt
 If you don't have a requirements.txt file, you can manually install the necessary packages:
