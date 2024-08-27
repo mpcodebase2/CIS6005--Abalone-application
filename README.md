@@ -8,6 +8,7 @@ The application is built using Flask for the backend and Streamlit for the front
 ### Prerequisites
 
 Python 3.12.4
+
 pip 24.0
 
 
