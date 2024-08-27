@@ -19,18 +19,15 @@ If you don't have a requirements.txt file, you can manually install the necessar
 pip install Flask streamlit scikit-learn
 
 
-**The pre-trained model file (.pkl file) has to be imported into the root directory before executing teh application**
 
 ### Running the Application
 
-Step 1: Start the Flask Backend
 
-python app.py
+The pre-trained model file **(.pkl file)** has to be imported into the root directory before executing the application
 
+Step 1: Start the Flask Backend - **python app.py**
 
-Step 2: Open a new terminal  & Start the Streamlit Frontend
-
-streamlit run forms.py
+Step 2: Open a new terminal  & Start the Streamlit Frontend - **streamlit run forms.py**
 
 
 **How to Use**
