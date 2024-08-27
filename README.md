@@ -1,11 +1,11 @@
-# CIS6005--Abalone-application
+### CIS6005--Abalone-application
 
-## Abalone Ring Count Prediction
+# Abalone Ring Count Prediction
 This project is a simple web application that predicts the ring count (and hence the age) of abalone based on various physical measurements. 
 The application is built using Flask for the backend and Streamlit for the frontend.
 
 
-## Prerequisites
+### Prerequisites
 Ensure you have the following installed:
 
 Python 3.x
@@ -20,10 +20,9 @@ If you don't have a requirements.txt file, you can manually install the necessar
 pip install Flask streamlit scikit-learn
 
 
-### The pre-trained model file (.pkl file) has to be imported into the root directory before executing teh application
+**The pre-trained model file (.pkl file) has to be imported into the root directory before executing teh application**
 
-
-## Running the Application
+### Running the Application
 
 Step 1: Start the Flask Backend
 
@@ -35,7 +34,7 @@ Step 2: Open a new terminal  & Start the Streamlit Frontend
 streamlit run forms.py
 
 
-## How to Use
+**How to Use**
 
 Once both the Flask backend and Streamlit frontend are running, you can interact with the application through the Streamlit interface.
 Select the Sex of the abalone and adjust the sliders for various features like Length, Diameter, Height, etc.
